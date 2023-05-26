@@ -1,3 +1,5 @@
 # scammy results at the bottom of DuckDuckGo results 
 /.+\..+-.+\.(de|nl)$/
 telemetry.elastic.co
+# homograph attacks
+/[^A-Za-z0-9-_\.]+/

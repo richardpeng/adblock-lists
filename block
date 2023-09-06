@@ -2,4 +2,4 @@
 /.+\..+-.+\.(de|nl)$/
 telemetry.elastic.co
 # homograph attacks
-/[^A-Za-z0-9-_\.]+/
+/[^A-Za-z0-9\-_\.]+/

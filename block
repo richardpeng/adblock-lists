@@ -3,3 +3,5 @@
 telemetry.elastic.co
 # homograph attacks
 /[^A-Za-z0-9\-_\.]+/
+# Roku
+/(ads|captive|logs)\.roku\.com$/

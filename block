@@ -1,7 +1,16 @@
+||www-googletagmanager.*.google.com
+telemetry.elastic.co
+
 # scammy results at the bottom of DuckDuckGo results 
 /.+\..+-.+\.(de|nl)$/
-telemetry.elastic.co
+
+
 # homograph attacks
 /[^A-Za-z0-9\-_\.]+/
+
 # Roku
 /(ads|captive|logs)\.roku\.com$/
+
+# Philips Hue
+||diag.meethue.com
+||diagnostics.meethue.com

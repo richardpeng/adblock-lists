@@ -1,6 +1,9 @@
 ||www-googletagmanager.*.google.com
 telemetry.elastic.co
 
+# I hate AMP pages!
+ampproject.org
+
 # scammy results at the bottom of DuckDuckGo results 
 /.+\..+-.+\.(de|nl)$/
 

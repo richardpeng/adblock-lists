@@ -1,6 +1,6 @@
 @@||s.youtube.com^
 
 # Allow clickthroughs
-@@||click.discord.com^$important
-@@||lnks.gd^$important
-@@||s.click.aliexpress.com^$important
+@@||click.discord.com
+@@||lnks.gd
+@@||s.click.aliexpress.com

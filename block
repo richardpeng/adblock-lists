@@ -9,7 +9,7 @@ ampproject.org
 
 
 # homograph attacks
-/[^A-Za-z0-9\-_\.]+/
+# /[^A-Za-z0-9\-_\.]+/
 
 # Roku
 /(ads|captive|logs)\.roku\.com$/
@@ -17,3 +17,4 @@ ampproject.org
 # Philips Hue
 ||diag.meethue.com
 ||diagnostics.meethue.com
+
